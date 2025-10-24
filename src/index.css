@@ -1,0 +1,7 @@
+/* Minimal styles — keep or replace with your Tailwind build */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* If you don't use Tailwind, move the classes to a CSS file or remove this file.
+   This file assumes your project already has Tailwind configured (as original code used Tailwind classes). */
